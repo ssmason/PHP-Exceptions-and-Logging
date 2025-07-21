@@ -1,0 +1,4 @@
+2025-07-21 09:35:50 - Level: emergency - Message: There is an emergency situation - Context: {"exception":"This is an exception","action":"login"}
+2025-07-21 09:35:50 - Level: critical - Message: There is an critical situation - Context: {"exception":"This is a critical exception","action":"login"}
+2025-07-21 09:35:50 - Level: warning - Message: There is a warning - Context: {"exception":"This is a warning exception","action":"login"}
+2025-07-21 09:35:50 - Level: info - Message: User logged in suuessfuly - Context: {"id":5,"action":"login"}

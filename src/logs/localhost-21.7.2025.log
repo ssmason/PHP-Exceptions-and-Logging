@@ -1,0 +1,17 @@
+2025-07-21 09:35:59 - Level: emergency - Message: There is an emergency situation - Context: {"exception":"This is an exception","action":"login"}
+2025-07-21 09:35:59 - Level: critical - Message: There is an critical situation - Context: {"exception":"This is a critical exception","action":"login"}
+2025-07-21 09:35:59 - Level: warning - Message: There is a warning - Context: {"exception":"This is a warning exception","action":"login"}
+2025-07-21 09:35:59 - Level: info - Message: User logged in suuessfuly - Context: {"id":5,"action":"login"}
+2025-07-21 09:46:25 - Level: emergency - Message: There is an emergency situation - Context: {"exception":"This is an exception","action":"login"}
+2025-07-21 09:46:25 - Level: critical - Message: There is an critical situation - Context: {"exception":"This is a critical exception","action":"login"}
+2025-07-21 09:46:25 - Level: warning - Message: There is a warning - Context: {"exception":"This is a warning exception","action":"login"}
+2025-07-21 09:47:00 - Level: emergency - Message: There is an emergency situation - Context: {"exception":"This is an exception","action":"login"}
+2025-07-21 09:47:00 - Level: critical - Message: There is an critical situation - Context: {"exception":"This is a critical exception","action":"login"}
+2025-07-21 09:47:00 - Level: warning - Message: There is a warning - Context: {"exception":"This is a warning exception","action":"login"}
+2025-07-21 09:47:00 - Level: info - Message: Test info function - Context: {"id":5,"action":"login"}
+2025-07-21 11:12:17 - Level: info - Message: Test message - Context: {"key":"value"}
+2025-07-21 11:12:29 - Level: info - Message: Test message - Context: {"key":"value"}
+2025-07-21 11:13:04 - Level: info - Message: Test message - Context: {"key":"value"}
+2025-07-21 11:13:23 - Level: info - Message: Test message - Context: {"key":"value"}
+2025-07-21 11:19:35 - Level: info - Message: Test message - Context: {"key":"value"}
+2025-07-21 11:25:33 - Level: info - Message: Test message - Context: {"key":"value"}
